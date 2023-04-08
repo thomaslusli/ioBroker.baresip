@@ -42,13 +42,11 @@
 			"zh-cn": "网络电话客户端"
 		},
 		"authors": [
-			"thomaslusli <thomas.jaeger@gmx.at>"
+			"thomaslusli <github@jäger.co.at>"
 		],
 		"keywords": [
-			"ioBroker",
-			"template",
-			"Smart Home",
-			"home automation"
+			"voip adapter",
+			"baresip"
 		],
 		"license": "MIT",
 		"platform": "Javascript/Node.js",
