@@ -46,6 +46,11 @@ Use of baresip VOIP User-Agent https://github.com/baresip/baresip in iobroker.
 	Placeholder for the next version (at the beginning of the line):
 	### **WORK IN PROGRESS**
 -->
+
+### **WORK IN PROGRESS**
+
+* (thomaslusli) format and test cases
+
 ### 0.0.1
 * (thomaslusli) initial realeas
 

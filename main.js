@@ -256,8 +256,8 @@ class Baresip extends utils.Adapter {
 
 		result = await this.checkGroupAsync("admin", "admin");
 		this.log.info("check group user admin group admin: " + result);
-		if (this.config.BareSIP_url == "" || this.config.BareSIP_port == "") {
-		// no action
+		if (!this.config.BareSIP_url || !this.config.BareSIP_port) {
+			return;
 		} else {
 			client = new Client(this);
 		}

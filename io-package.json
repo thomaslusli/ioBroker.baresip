@@ -75,7 +75,11 @@
 			}
 		]
 	},
-	"native": {},
+	"native": {
+		"BareSIP_port" : 4444,
+		"BareSIP_url" : ""
+
+	},
 	"objects": [],
 	"instanceObjects": []
 }
