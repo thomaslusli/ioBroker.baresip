@@ -1,0 +1,14 @@
+{
+    "configurations": [
+
+        
+
+        {
+            "type": "node",
+            "name": "attach url",
+            "request": "attach",
+            "address": "localhost",
+            "port": 9229
+        }
+    ]
+}

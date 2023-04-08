@@ -1,0 +1,83 @@
+{
+	"common": {
+		"name": "baresip",
+		"version": "0.0.1",
+		"news": {
+			"0.0.1": {
+				"en": "initial release",
+				"de": "Erstveröffentlichung",
+				"ru": "Начальная версия",
+				"pt": "lançamento inicial",
+				"nl": "Eerste uitgave",
+				"fr": "Première version",
+				"it": "Versione iniziale",
+				"es": "Versión inicial",
+				"pl": "Pierwsze wydanie",
+				"zh-cn": "首次出版"
+			}
+		},
+		"title": "baresip",
+		"titleLang": {
+			"en": "baresip",
+			"de": "Baresip",
+			"ru": "голый глоток",
+			"pt": "baresip",
+			"nl": "baresip",
+			"fr": "baresip",
+			"it": "baresip",
+			"es": "desnudos",
+			"pl": "gołym okiem",
+			"zh-cn": "裸体"
+		},
+		"desc": {
+			"en": "voip client",
+			"de": "VoIP-Client",
+			"ru": "voip-клиент",
+			"pt": "cliente voip",
+			"nl": "voip-client",
+			"fr": "client voip",
+			"it": "cliente voip",
+			"es": "cliente voip",
+			"pl": "klient voip'a",
+			"zh-cn": "网络电话客户端"
+		},
+		"authors": [
+			"thomaslusli <thomas.jaeger@gmx.at>"
+		],
+		"keywords": [
+			"ioBroker",
+			"template",
+			"Smart Home",
+			"home automation"
+		],
+		"license": "MIT",
+		"platform": "Javascript/Node.js",
+		"main": "main.js",
+		"icon": "baresip.png",
+		"enabled": true,
+		"extIcon": "https://raw.githubusercontent.com/thomaslusli/ioBroker.baresip/main/admin/baresip.png",
+		"readme": "https://github.com/thomaslusli/ioBroker.baresip/blob/main/README.md",
+		"loglevel": "info",
+		"mode": "daemon",
+		"type": "network",
+		"compact": true,
+		"connectionType": "local",
+		"dataSource": "poll",
+		"adminUI": {
+			"config": "json"
+		},
+		"dependencies": [
+			{
+				"js-controller": ">=3.3.22"
+			}
+		],
+		"globalDependencies": [
+			{
+				"admin": ">=5.1.13"
+			}
+		]
+	},
+	"native": {},
+	"objects": [],
+	"instanceObjects": []
+}

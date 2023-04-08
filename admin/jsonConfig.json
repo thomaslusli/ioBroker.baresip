@@ -1,0 +1,22 @@
+{
+	"i18n": true,
+	"type": "panel",
+	"items": {
+		"BareSIP_port": {
+			"type": "number",
+			"label": "BareSIP Port",
+			"newLine": true,
+			"sm": 12,
+			"md": 6,
+			"lg": 6
+		},
+		"BareSIP_url": {
+			"type": "ip",
+			"label": "BareSIP IPs",
+			"newLine": true,
+			"sm": 12,
+			"md": 6,
+			"lg": 6
+		}
+	}
+}
