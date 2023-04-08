@@ -4,7 +4,7 @@
   "description": "voip client",
   "author": {
     "name": "thomaslusli",
-    "email": "thomas@jäger.co.at"
+    "email": "github@jäger.co.at"
   },
   "homepage": "https://github.com/thomaslusli/ioBroker.baresip",
   "license": "MIT",
