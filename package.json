@@ -19,7 +19,7 @@
     "url": "https://github.com/thomaslusli/ioBroker.baresip.git"
   },
   "engines": {
-    "node": ">= 14"
+    "node": ">= 12"
   },
   "dependencies": {
     "@iobroker/adapter-core": "^2.6.8",
