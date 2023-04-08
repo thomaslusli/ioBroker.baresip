@@ -19,6 +19,7 @@ Use of baresip VOIP User-Agent https://github.com/baresip/baresip in iobroker.
 ## Installation
  - baresip
 	+ install baresip
+	
 	After first start edit some configuration files
 	+ .baresip/config
 		uncomment "module_app ctrl_tcp.so"
