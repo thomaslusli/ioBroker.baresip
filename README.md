@@ -1,6 +1,7 @@
 ![Logo](admin/baresip.png)
 # ioBroker.baresip
 
+<!--  
 [![NPM version](https://img.shields.io/npm/v/iobroker.baresip.svg)](https://www.npmjs.com/package/iobroker.baresip)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.baresip.svg)](https://www.npmjs.com/package/iobroker.baresip)
 ![Number of Installations](https://iobroker.live/badges/baresip-installed.svg)
@@ -8,7 +9,8 @@
 
 [![NPM](https://nodei.co/npm/iobroker.baresip.png?downloads=true)](https://nodei.co/npm/iobroker.baresip/)
 
-**Tests:** ![Test and Release](https://github.com/thomaslusli/ioBroker.baresip/workflows/Test%20and%20Release/badge.svg)
+**Tests:** ![Test and Release](https://github.com/thomaslusli/ioBroker.baresip/workflows/Test%20and%20Release/badge.svg) 
+-->
 
 ## baresip adapter for ioBroker
 
