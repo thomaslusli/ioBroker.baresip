@@ -58,7 +58,7 @@ Use of baresip VOIP User-Agent https://github.com/baresip/baresip in iobroker.
 ## License
 MIT License
 
-Copyright (c) 2023 thomaslusli <github@jäger.co.at>
+Copyright (c) 2023 thomaslusli <github@tjaeger.at>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
